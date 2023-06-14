@@ -1,8 +1,8 @@
 .env
 node_modules
 package-lock.json
-package.json
+
 /Client/node_modules
-/Client/package.json
+
 /Client/package-lock.json
 .gitignore
